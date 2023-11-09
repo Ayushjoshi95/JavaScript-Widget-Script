@@ -13,12 +13,12 @@ This widget script takes a token name as a parameter and display information lik
 
 4. The widget script renders the token details in a user-friendly format within the embedded script's container on the web page just like in the image shared below.
 
-#Bulit With
+# Bulit With
 HTML
 CSS 
 JavaScript
 
-Getting Started 
+# Getting Started 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 Installing
