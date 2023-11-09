@@ -22,14 +22,14 @@ This widget script takes a token name as a parameter and display information lik
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 **Installing** <br>
-1.Get a free API Key at https://api.coingecko.com/api/v3/coins/bitcoin <br>
+1.Get a free API Key at https://api.coingecko.com/api/v3/coins/bitcoin <br> <br>
 2.Clone the repo:
 ```html
 git clone https://github.com/Ayushjoshi95/JavaScript-Widget-Script.git
  ```
--3.Add the JavaScript file to your web page:
+3.Add the JavaScript file to your web page:
 ```html
 <script type="text/javascript" src="coinGeckoWidget.js"></script>
 ```
--4.Enter your API in coinGeckoWidget.js
+4.Enter your API in coinGeckoWidget.js
 
