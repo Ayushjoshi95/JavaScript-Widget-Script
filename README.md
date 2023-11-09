@@ -21,9 +21,9 @@ This widget script takes a token name as a parameter and display information lik
 # Getting Started 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-**Installing**
--1.Get a free API Key at https://api.coingecko.com/api/v3/coins/bitcoin
--2.Clone the repo:
+**Installing** <br>
+1.Get a free API Key at https://api.coingecko.com/api/v3/coins/bitcoin <br>
+2.Clone the repo:
 ```html
 git clone https://github.com/Ayushjoshi95/JavaScript-Widget-Script.git
  ```
